@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://twitter.com/ajaiverma22" target="blank"><img src="https://img.shields.io/twitter/follow/ajaiverma22?logo=twitter&style=for-the-badge" alt="ajaiverma22" /></a> </p>
 
-- 🌱 I’m currently learning **NodeJS, TypeScript, Golang, Docker, Kubernetes, AWS**
+- 🌱 I’m currently learning **Golang, Docker, Kubernetes, AWS**
 
 - 👨‍💻 All of my projects are available at [http://ajaiverma.com/](http://ajaiverma.com/)
 
 - 💬 Ask me about **JavaScript, Node, TypeScript**
 
-- 📫 How to reach me **ajaiverma22@gmail.com**
+- 📫 How to reach me **ajaiverma401@gmail.com**
 
 - ⚡ Fun fact **I can write code while dreaming**
 
